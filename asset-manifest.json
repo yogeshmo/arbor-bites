@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/arbor-bites/static/js/main.e6c20b14.chunk.js",
-    "main.js.map": "/arbor-bites/static/js/main.e6c20b14.chunk.js.map",
-    "runtime-main.js": "/arbor-bites/static/js/runtime-main.01055ebb.js",
-    "runtime-main.js.map": "/arbor-bites/static/js/runtime-main.01055ebb.js.map",
-    "static/css/2.43b2b750.chunk.css": "/arbor-bites/static/css/2.43b2b750.chunk.css",
-    "static/js/2.04d3b7f0.chunk.js": "/arbor-bites/static/js/2.04d3b7f0.chunk.js",
-    "static/js/2.04d3b7f0.chunk.js.map": "/arbor-bites/static/js/2.04d3b7f0.chunk.js.map",
-    "index.html": "/arbor-bites/index.html",
-    "static/css/2.43b2b750.chunk.css.map": "/arbor-bites/static/css/2.43b2b750.chunk.css.map",
-    "static/js/2.04d3b7f0.chunk.js.LICENSE.txt": "/arbor-bites/static/js/2.04d3b7f0.chunk.js.LICENSE.txt",
-    "static/media/hamburger_logo.d912b9ca.png": "/arbor-bites/static/media/hamburger_logo.d912b9ca.png",
-    "static/media/mainpage_splash.30902baa.png": "/arbor-bites/static/media/mainpage_splash.30902baa.png"
+    "main.js": "/static/js/main.e6c20b14.chunk.js",
+    "main.js.map": "/static/js/main.e6c20b14.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.117f9302.js",
+    "runtime-main.js.map": "/static/js/runtime-main.117f9302.js.map",
+    "static/css/2.43b2b750.chunk.css": "/static/css/2.43b2b750.chunk.css",
+    "static/js/2.04d3b7f0.chunk.js": "/static/js/2.04d3b7f0.chunk.js",
+    "static/js/2.04d3b7f0.chunk.js.map": "/static/js/2.04d3b7f0.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.43b2b750.chunk.css.map": "/static/css/2.43b2b750.chunk.css.map",
+    "static/js/2.04d3b7f0.chunk.js.LICENSE.txt": "/static/js/2.04d3b7f0.chunk.js.LICENSE.txt",
+    "static/media/hamburger_logo.d912b9ca.png": "/static/media/hamburger_logo.d912b9ca.png",
+    "static/media/mainpage_splash.30902baa.png": "/static/media/mainpage_splash.30902baa.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.01055ebb.js",
+    "static/js/runtime-main.117f9302.js",
     "static/css/2.43b2b750.chunk.css",
     "static/js/2.04d3b7f0.chunk.js",
     "static/js/main.e6c20b14.chunk.js"
