@@ -16,11 +16,11 @@ class App extends Component {
                     <Navigation />
                     <div className="mt-5">
                         <Switch>
-                            <Route path="/" exact component={MainPage} />
-                            <Route path="/recipes" component={RecipesPage} />
-                            <Route path="/restaurants" component={RestaurantsPage} />
-                            <Route path="/stores" component={StoresPage} />
-                            <Route path="/tips" component={TipsPage} />
+                            <Route path="/arbor-bites" exact component={MainPage} />
+                            <Route path="/arbor-bites/recipes" component={RecipesPage} />
+                            <Route path="/arbor-bites/restaurants" component={RestaurantsPage} />
+                            <Route path="/arbor-bites/stores" component={StoresPage} />
+                            <Route path="/arbor-bites/tips" component={TipsPage} />
                         </Switch>
                     </div>
                 </Router>
